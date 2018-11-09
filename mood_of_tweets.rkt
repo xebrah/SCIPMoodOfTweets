@@ -1,3 +1,7 @@
+;;Name: Wasswa Ibrahim Shafiq
+;;Reg No: 2018/HD05/2039U
+;;Student No: 1800740301
+
 ;;start by defining the language to use. for this case its the racket language for scheme implementation
 ;;and defining all the dependencies we shall neeed for the abstractions to work
 #lang racket
